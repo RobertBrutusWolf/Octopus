@@ -1,0 +1,6 @@
+2022-04-22: MockAPI : version=R1 v1.0.0
+2022-04-22: Reading config file '/home/rwolf/Dev/Octopus/runtime_data/config/app_config.json'
+2022-04-22: MockAPI : version=R1 v1.0.0
+2022-04-22: Reading config file '/home/rwolf/Dev/Octopus/runtime_data/config/app_config.json'
+2022-04-22: MockAPI : version=R1 v1.0.0
+2022-04-22: Reading config file '/home/rwolf/Dev/Octopus/runtime_data/config/app_config.json'

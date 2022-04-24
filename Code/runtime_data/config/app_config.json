@@ -1,0 +1,15 @@
+{
+    "application_settings": [
+        {
+            "base_endpoint": "https://api.krakenflex.systems/interview-tests-mock-api/v1", 
+            "base_api_key": "EltgJ5G8m44IzwE6UN2Y4B4NjPW77Zk6FJK3lL23", 
+            "site_info" : "norwich-pear-tree",
+            "outages_endpoint": "/outages",
+            "siteinfo_endpoint": "/site-info",
+            "siteoutages_endpoint": "/site-outages",
+            "api_post_retries" : "5",
+            "outage_max_date" : "2022-01-01T00:00:00.000Z"
+           
+        }
+    ]
+}
